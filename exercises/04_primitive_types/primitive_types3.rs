@@ -5,10 +5,9 @@
 // Execute `rustlings hint primitive_types3` or use the `hint` watch subcommand
 // for a hint.
 
-// I AM NOT DONE
 
 fn main() {
-    let a = ???
+    let a = "I am writing an array to testing. I am completing the array size so that it can go beyond 100 character";
 
     if a.len() >= 100 {
         println!("Wow, that's a big array!");
